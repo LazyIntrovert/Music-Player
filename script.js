@@ -57,7 +57,7 @@ const allSongs = [
   },
   {
     id: 7,
-    title: "စက်များ",
+    title: "နာရီပေါ်ကမျက်ရည်စက်များ",
     artist: "Htoo Ein Thin",
     duration: "3:17",
     src: "./assets/ထအမသင_နရပကမကရညစကမ_Htoo_Ein_Thin.mp3",
