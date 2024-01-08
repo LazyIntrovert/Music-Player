@@ -345,7 +345,8 @@
   
     #player-album-art img {
       width: 100%;
-      opacity: 0.6;
+      opacity: 0.73;
+      height:280px;
     }
   
     .player-display-song-artist {
