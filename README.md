@@ -1,2 +1,2 @@
 # Music-Player(freecodeCamp project)
-Live preview https://illustrious-dieffenbachia-254f19.netlify.app/
+Live preview https://fabulous-squirrel-1e11f2.netlify.app/
